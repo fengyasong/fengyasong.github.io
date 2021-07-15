@@ -1,6 +1,6 @@
 {
-    "name": "myapp",
-    "short_name": "myapp",
+    "name": "web_pages",
+    "short_name": "web_pages",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
